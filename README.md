@@ -31,15 +31,15 @@ In this project, we:
 - Fine-tune the model on a summarization dataset
 - Compare output quality
 
-## 🔍 Model & Dataset
+## Model & Dataset
 
-### 🤖 Pre-trained Model
+### Pre-trained Model
 
 **BART Large CNN**  
 - Link: https://huggingface.co/facebook/bart-large-cnn  
 - Optimized for abstractive summarization tasks  
 
-### 📊 Dataset Used for Fine-Tuning
+### Dataset Used for Fine-Tuning
 
 **DialogSum Dataset**  
 - Link: https://huggingface.co/datasets/knkarthick/dialogsum  
