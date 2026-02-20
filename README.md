@@ -10,10 +10,7 @@ The objective is to compare:
 
 
 ⚠️ Note: If the notebook preview does not load on GitHub, download the file and open it locally in Jupyter Notebook
-OR upload it directly to Google Colab to view and run it.
-
-📥 Notebook file:
-`Text_Summarizer_Using_BART_Transformer.ipynb`
+OR click on the below link to view in Google Colab and copy it to your drive to run it.
 
 Colab notebook link: https://colab.research.google.com/drive/1m_Q9BN-cSY718xt2G9AF9yeNM-qAmeqR
 
