@@ -1,6 +1,6 @@
-# 📝 Dialogue Summarization using BART (Supervised Fine-Tuning)
+# 📝 Conversation Summarizer using BART (Supervised Fine-Tuning)
 
-This project implements **abstractive dialogue summarization** using a pre-trained BART transformer model and applies **Supervised Fine-Tuning (SFT)** on the DialogSum dataset.
+This project implements **abstractive Conversation summarization** using a pre-trained BART transformer model and applies **Supervised Fine-Tuning (SFT)** on the DialogSum dataset.
 
 The objective is to compare baseline summarization performance with a task-adapted fine-tuned model.
 
@@ -56,7 +56,7 @@ This project uses **Supervised Fine-Tuning (SFT)**.
 - Loss Function: Cross-entropy loss  
 - Training Method: End-to-end parameter updates using Hugging Face Trainer  
 
-All model parameters are updated to adapt the pre-trained BART model to dialogue summarization.
+All model parameters are updated to adapt the pre-trained BART model to conversation summarization.
 
 ---
 
@@ -90,7 +90,7 @@ This reflects practical constraints when working with large transformer models i
 
 The fine-tuned model demonstrates:
 
-- Improved contextual understanding of dialogue flow  
+- Improved contextual understanding of conversation flow  
 - Better abstraction compared to the baseline model  
 - More coherent and structured summaries  
 
